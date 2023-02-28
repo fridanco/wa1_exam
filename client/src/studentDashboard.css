@@ -1,0 +1,17 @@
+h1 {
+  padding-top: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+h3 {
+  padding-top: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+.MuiCard-root {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  justify-content: space-between;
+}
